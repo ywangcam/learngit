@@ -1,2 +1,0 @@
-add/rm <file>..." to update what will be committed)
-#   (use "git checkout -- <file
